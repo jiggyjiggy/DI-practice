@@ -6,4 +6,4 @@
 
 
 ## BeanFactory 구현
-![](../../../var/folders/18/br3c12h50gscv_pdmn4zxfs00000gn/T/TemporaryItems/NSIRD_screencaptureui_0iwRm7/스크린샷 2023-01-06 오전 1.29.26.png)
+![](../Desktop/스크린샷 2023-01-06 오후 11.01.24.png)
