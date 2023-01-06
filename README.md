@@ -6,4 +6,4 @@
 
 
 ## BeanFactory 구현
-![](../Desktop/스크린샷 2023-01-06 오후 11.01.24.png)
+<img width="858" alt="스크린샷 2023-01-06 오후 11 01 24" src="https://user-images.githubusercontent.com/89971435/211027503-f4b303eb-2edb-41f3-a267-240e6a5cd845.png">
